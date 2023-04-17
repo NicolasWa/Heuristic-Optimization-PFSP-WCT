@@ -1,3 +1,6 @@
+  For the project instructions and results, please refer to the files "Project instructions.pdf' and "Project report.pdf", respectively.
+  
+  
   ###### PART ALGORITHM
   
   To compile, go to the flowshopWCT directory and type 'make' in the terminal to compile everything.
