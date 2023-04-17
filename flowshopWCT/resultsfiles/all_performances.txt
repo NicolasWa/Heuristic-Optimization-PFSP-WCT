@@ -1,0 +1,17 @@
+name, Avg_time_100_jobs , Avg_time_50_jobs , RPD
+ii_randinit_transpose_first , 0.051837 , 0.00780353 , 35.6883
+ii_randinit_transpose_best , 0.0389684 , 0.0056709 , 37.3192
+ii_randinit_exchange_first , 10.7126 , 0.489722 , 1.74816
+ii_randinit_exchange_best , 2.38377 , 0.167107 , 4.4896
+ii_randinit_insert_first , 24.4132 , 1.16888 , 1.82468
+ii_randinit_insert_best , 5.5916 , 0.381907 , 3.3865
+ii_srz_transpose_first , 0.0204936 , 0.00339236 , 4.16048
+ii_srz_transpose_best , 0.0230979 , 0.00366053 , 4.1574
+ii_srz_exchange_first , 0.68204 , 0.0418601 , 2.98911
+ii_srz_exchange_best , 0.561213 , 0.0407643 , 3.11842
+ii_srz_insert_first , 1.95763 , 0.119659 , 1.92795
+ii_srz_insert_best , 1.64503 , 0.122677 , 2.26977
+vnd_srz_tr_ex_in_first , 1.35212 , 0.114339 , 2.01644
+vnd_srz_tr_in_ex_first , 1.12063 , 0.0772627 , 2.05574
+RII_srz_insert_first , 350 , 38.67 , 0.415289
+ILS_srz_insert_first , 350 , 38.67 , 0.198002

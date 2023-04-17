@@ -1,0 +1,2 @@
+Avg_RPD_100_jobs , Avg_RPD_50_jobs , Avg_RPD_Global
+0.258566 , 0.137438 , 0.198002
